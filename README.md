@@ -141,6 +141,3 @@ curl -X POST "http://localhost:8000/crypto/analysis" \
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Support
-
-For issues or questions, please open an issue in the repository.
